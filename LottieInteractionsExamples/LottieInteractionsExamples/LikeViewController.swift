@@ -34,7 +34,7 @@ class LikeViewController: UIViewController {
         animationView.translatesAutoresizingMaskIntoConstraints = false
         view.addSubview(animationView)
         NSLayoutConstraint.activate([
-            animationView.centerXAnchor.constraint(equalTo:view.centerXAnchor),
+            animationView.centerXAnchor.constraint(equalTo: view.centerXAnchor),
             animationView.centerYAnchor.constraint(equalTo: view.centerYAnchor),
             animationView.widthAnchor.constraint(equalToConstant: 300),
             animationView.heightAnchor.constraint(equalToConstant: 300)
