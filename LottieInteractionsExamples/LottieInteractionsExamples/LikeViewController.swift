@@ -14,7 +14,6 @@ class LikeViewController: UIViewController {
         let animationView = AnimationView(animation: Animation.named("likeAnimation")!)
         animationView.contentMode = .scaleAspectFit
         animationView.animationSpeed = 2
-        animationView.contentMode = .scaleAspectFit
         return animationView
     }()
     
