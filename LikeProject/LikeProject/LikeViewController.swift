@@ -9,6 +9,20 @@ import UIKit
 
 class LikeViewController: UIViewController {
     
+    // MARK: - Properties
+    
+    
+    
+    // MARK: - Lifecycle methods
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        
+    }
+    
+    // MARK: - Private Methods
+    
     
     
 }
