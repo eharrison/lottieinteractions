@@ -12,6 +12,7 @@
 		A7576254282AD8C200FA5257 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7576253282AD8C200FA5257 /* Assets.xcassets */; };
 		A7576257282AD8C200FA5257 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7576256282AD8C200FA5257 /* Preview Assets.xcassets */; };
 		A757625F282AD8E300FA5257 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = A757625E282AD8E300FA5257 /* Lottie */; };
+		A7BC639C282BF6A9007BC926 /* LikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7BC639B282BF6A9007BC926 /* LikeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		A7576251282AD8C100FA5257 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A7576253282AD8C200FA5257 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7576256282AD8C200FA5257 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A7BC639B282BF6A9007BC926 /* LikeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				A757624F282AD8C100FA5257 /* LikeProjectSwiftUIApp.swift */,
 				A7576251282AD8C100FA5257 /* ContentView.swift */,
+				A7BC639B282BF6A9007BC926 /* LikeView.swift */,
 				A7576253282AD8C200FA5257 /* Assets.xcassets */,
 				A7576255282AD8C200FA5257 /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7BC639C282BF6A9007BC926 /* LikeView.swift in Sources */,
 				A7576252282AD8C100FA5257 /* ContentView.swift in Sources */,
 				A7576250282AD8C100FA5257 /* LikeProjectSwiftUIApp.swift in Sources */,
 			);
